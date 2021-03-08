@@ -1,0 +1,34 @@
+body {
+  padding: 50px;
+  font: 65px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: grey;
+}
+
+a {
+  display: inline-block;
+  color: green;
+  font-size: 56px;
+}
+
+p {
+  color: purple;
+  font-size: 42px;
+}
+
+li {
+  color: purple;
+}
+
+h3 {
+  color: purple;
+}
+
+.delete-form {
+  display: inline-block;
+  margin-right: 10px;
+}
+	
+.delete-form button {
+  color: red;
+  background-color: black;
+}
